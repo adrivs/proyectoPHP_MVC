@@ -15,3 +15,7 @@ Aplicación web para la asignatura de DWES. Objetivo: Poner en contacto a guías
 - Editar recorridos
 - Borrar recorridos
 - En cada recorrido se muestra un mapa con el inicio y el fin de la ruta.
+
+### APIs usadas
+- Mapbox (Para poder "pintar" el mapa)
+- Mapquest (Para obtener la latitud y longitud de el punto inicial y final)
